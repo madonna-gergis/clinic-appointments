@@ -3,10 +3,10 @@
 ## Team Members
 | ID | Name | Branch | PR Link |
 |---|---|---|---|
-| 20242251 | Madonna Gerges | main | Pending |
-| 20240061 | Ahmed Yasser | main | Pending |
-| 20240123 | Bishoy Robert | main | Pending |
-| 20240096 | Andrew Wael | main | Pending |
+| 20242251 | Madonna Gerges | madonna-gergis-patch-1 | [#1](https://github.com/madonna-gergis/clinic-appointments/pull/1) |
+| 20240061 | Ahmed Yasser | sequence-diagram, implementation, readme-and-use-case-diagram | [#3](https://github.com/madonna-gergis/clinic-appointments/pull/3), [#4](https://github.com/madonna-gergis/clinic-appointments/pull/4), [#5](https://github.com/madonna-gergis/clinic-appointments/pull/5) |
+| 20240123 | Bishoy Robert | beshoy | [#2](https://github.com/madonna-gergis/clinic-appointments/pull/2) |
+| 20240096 | Andrew Wael | - | - (PR review) |
 
 ## Configuration
 - N = 5
@@ -18,10 +18,11 @@ Conflict Drill: Madonna Gerges, Ahmed Yasser, Bishoy Robert, Andrew Wael
 ## Stages
 | Student ID | Full name | Assigned task | Branch | PR link |
 |---|---|---|---|---|
-| 20242251 | Madonna Gerges | Use Cases | main | #1 |
-| 20240123 | Bishoy Robert | Class Diagram | beshoy | #2 |
-| 20240061 | Ahmed Yasser | Sequence Diagram | sequence-diagram | Pending |
-| 20240061 | Ahmed Yasser | Implementation (took over from Andrew Wael) | implementation | Pending |
+| 20242251 | Madonna Gerges | Use Cases | main | committed to main |
+| 20240123 | Bishoy Robert | Class Diagram | beshoy | [#2](https://github.com/madonna-gergis/clinic-appointments/pull/2) |
+| 20240061 | Ahmed Yasser | Sequence Diagram | sequence-diagram | [#3](https://github.com/madonna-gergis/clinic-appointments/pull/3) |
+| 20240061 | Ahmed Yasser | Implementation (took over from Andrew Wael) | implementation | [#4](https://github.com/madonna-gergis/clinic-appointments/pull/4) |
+| 20240061 | Ahmed Yasser | Use Case Diagram + README links | readme-and-use-case-diagram | [#5](https://github.com/madonna-gergis/clinic-appointments/pull/5) |
 
 ## How to run
 Requires Python 3 (standard library only, nothing to install).
